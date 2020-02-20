@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-export default class SubTest extends Component {
+export default class Bar extends Component {
   render() {
     const ratio = 70;
     return (

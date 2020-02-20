@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Bar from './Bar';
 
-export default class Test1 extends Component {
+export default class Bars extends Component {
   constructor(props) {
     super(props);
     this.state = {
